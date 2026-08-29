@@ -1,2 +1,19 @@
-# phoenix-tech-trading
-Official website for Phoenix Tech &amp; Trading Solutions — Forex, technology, data analytics and digital solutions.
+# Phoenix Tech & Trading Solutions — Stage 2
+
+Pages:
+- index.html — homepage
+- about.html — company profile
+- services.html — service catalog
+- portfolio.html — project portfolio
+- contact.html — inquiry form
+
+Images:
+- images/profile.png — branded professional profile image
+- images/business-cover.png — business cover/banner
+
+Before launch:
+1. Replace placeholder/project descriptions with real projects.
+2. Add your actual phone/WhatsApp number.
+3. Add LinkedIn/GitHub/social links.
+4. Replace the simple P brand mark with the final phoenix logo if desired.
+5. Connect a proper form backend after GitHub Pages is live.

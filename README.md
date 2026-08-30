@@ -17,3 +17,7 @@ Before launch:
 3. Add LinkedIn/GitHub/social links.
 4. Replace the simple P brand mark with the final phoenix logo if desired.
 5. Connect a proper form backend after GitHub Pages is live.
+
+
+### Stage 3C update
+Premium floating WhatsApp CTA and direct WhatsApp contact card added.

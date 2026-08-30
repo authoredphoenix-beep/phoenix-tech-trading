@@ -1,0 +1,9 @@
+{
+  "name": "Phoenix Tech & Trading",
+  "short_name": "Phoenix",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05080d",
+  "theme_color": "#071322",
+  "description": "Forex analysis, data analytics, programming and business automation."
+}
